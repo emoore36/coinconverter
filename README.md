@@ -24,4 +24,4 @@ For the Python implementation:
 - For a Linux OS, type `python3 Main.py <coins to convert>`.
 
 ## Issues
-- The hashing functionality of a `HashMap` might add unnecessary complexity. Considering using a different kind of ordered `Map` instead.
+- The hashing functionality of a `HashMap` in the Java implementation might add unnecessary complexity. Considering using a different kind of ordered `Map` instead.
