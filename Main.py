@@ -78,7 +78,7 @@ convert_coin("sp", "gp")
 
 output: str = ""
 
-for coin_type in COIN_MAP.__reversed__():
+for coin_type in COIN_MAP:
     output += str.format("{}{} ", COIN_MAP[coin_type], coin_type)
 
 print(output)
