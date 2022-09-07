@@ -22,3 +22,6 @@ The above instructions and examples assume the use of a Windows OS.
 For the Python implementation:
 - For a Mac OS, type `python Main.py <coins to convert>`.
 - For a Linux OS, type `python3 Main.py <coins to convert>`.
+
+## Issues
+- The hashing functionality of a `HashMap` might add unnecessary complexity. Considering using a different kind of ordered `Map` instead.
